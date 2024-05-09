@@ -8,8 +8,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron": "^30.0.2"
+    "electron": "^30.0.2",
+    "electron-reload": "^2.0.0-alpha.1"
   },
-  "devDependencies": {},
   "description": ""
 }
